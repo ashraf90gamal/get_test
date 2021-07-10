@@ -1,2 +1,2 @@
-# get_test
+# git_test
 for GitHub test 
